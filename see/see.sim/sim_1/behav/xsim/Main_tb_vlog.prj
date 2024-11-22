@@ -1,0 +1,20 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../see.srcs/sources_1/imports/new/ALU.sv" \
+"../../../../see.srcs/sources_1/imports/new/D_flip_2.sv" \
+"../../../../see.srcs/sources_1/imports/new/K2_project.sv" \
+"../../../../see.srcs/sources_1/imports/new/Program_Counter.sv" \
+"../../../../see.srcs/sources_1/imports/new/ROM.sv" \
+"../../../../see.srcs/sources_1/imports/new/Register1.sv" \
+"../../../../see.srcs/sources_1/imports/new/address_memory.sv" \
+"../../../../see.srcs/sources_1/imports/new/decoder.sv" \
+"../../../../see.srcs/sources_1/imports/new/mux4.sv" \
+"../../../../see.srcs/sources_1/imports/new/mux_alu_imm.sv" \
+"../../../../see.srcs/sources_1/imports/new/mux_memory_mux.sv" \
+"../../../../see.srcs/sim_1/imports/new/k2_test.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

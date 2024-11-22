@@ -1,0 +1,17 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/CX-203/see/see.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/CX-203/see/see.srcs/sim_1/imports/new/k2_test.sv,1732300832,systemVerilog,,,,Main_tb,,,,,,,,
+/home/it/CX-203/see/see.srcs/sources_1/imports/new/ALU.sv,1732172542,systemVerilog,,/home/it/CX-203/see/see.srcs/sources_1/imports/new/D_flip_2.sv,,ALU,,,,,,,,
+/home/it/CX-203/see/see.srcs/sources_1/imports/new/D_flip_2.sv,1732179038,systemVerilog,,/home/it/CX-203/see/see.srcs/sources_1/imports/new/K2_project.sv,,D_flip_2,,,,,,,,
+/home/it/CX-203/see/see.srcs/sources_1/imports/new/K2_project.sv,1732296018,systemVerilog,,/home/it/CX-203/see/see.srcs/sources_1/imports/new/Program_Counter.sv,,Main,,,,,,,,
+/home/it/CX-203/see/see.srcs/sources_1/imports/new/Program_Counter.sv,1732208643,systemVerilog,,/home/it/CX-203/see/see.srcs/sources_1/imports/new/ROM.sv,,Program_Counter,,,,,,,,
+/home/it/CX-203/see/see.srcs/sources_1/imports/new/ROM.sv,1732289834,systemVerilog,,/home/it/CX-203/see/see.srcs/sources_1/imports/new/Register1.sv,,ROM,,,,,,,,
+/home/it/CX-203/see/see.srcs/sources_1/imports/new/Register1.sv,1732290708,systemVerilog,,/home/it/CX-203/see/see.srcs/sources_1/imports/new/address_memory.sv,,Register1,,,,,,,,
+/home/it/CX-203/see/see.srcs/sources_1/imports/new/address_memory.sv,1732285174,systemVerilog,,/home/it/CX-203/see/see.srcs/sources_1/imports/new/decoder.sv,,address_memory,,,,,,,,
+/home/it/CX-203/see/see.srcs/sources_1/imports/new/decoder.sv,1732177638,systemVerilog,,/home/it/CX-203/see/see.srcs/sources_1/imports/new/mux4.sv,,decoder,,,,,,,,
+/home/it/CX-203/see/see.srcs/sources_1/imports/new/mux4.sv,1732186416,systemVerilog,,/home/it/CX-203/see/see.srcs/sources_1/imports/new/mux_alu_imm.sv,,mux4,,,,,,,,
+/home/it/CX-203/see/see.srcs/sources_1/imports/new/mux_alu_imm.sv,1732290708,systemVerilog,,/home/it/CX-203/see/see.srcs/sources_1/imports/new/mux_memory_mux.sv,,mux_alu_imm,,,,,,,,
+/home/it/CX-203/see/see.srcs/sources_1/imports/new/mux_memory_mux.sv,1732291821,systemVerilog,,/home/it/CX-203/see/see.srcs/sim_1/imports/new/k2_test.sv,,mux_memory_mux,,,,,,,,
